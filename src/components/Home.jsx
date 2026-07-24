@@ -107,6 +107,7 @@ const Home = () => {
             <img src="https://m.media-amazon.com/images/I/71aHbP5M2HL._AC_SY200_.jpg" alt="" />
             <img src="https://m.media-amazon.com/images/I/51WmCssta3L._AC_SY200_.jpg" alt="" />
             <img src="https://m.media-amazon.com/images/I/41ggFXk-slL._AC_SY200_.jpg" alt="" />
+            <img src="https://m.media-amazon.com/images/I/615vR+EOKGL._AC_SY200_.jpg" alt="" />
             </div>
         </div>
 
@@ -120,6 +121,7 @@ const Home = () => {
                     <img src="https://m.media-amazon.com/images/I/81RSTW298AL._AC_SY200_.jpg" alt="" />
                 <img src="https://m.media-amazon.com/images/I/513dNHv7MnL._AC_SY200_.jpg" alt="" />
                 <img src="https://m.media-amazon.com/images/I/710H5I6siUL._AC_SY200_.jpg" alt="" />
+                <img src="https://m.media-amazon.com/images/I/81RSTW298AL._AC_SY200_.jpg" alt="" />
                 
             </div>
         </div>
@@ -227,6 +229,7 @@ const Home = () => {
                     <img src="https://m.media-amazon.com/images/I/51hzPy9jN4L._AC_SY200_.jpg" alt="" />
                     <img src="https://m.media-amazon.com/images/I/61mi5nmw8KL._AC_SY200_.jpg" alt="" />
                     <img src="https://m.media-amazon.com/images/I/71Vmt6gMS6L._AC_SY200_.jpg" alt="" />
+                    <img src="https://m.media-amazon.com/images/I/71Sa8csLuZL._AC_SY200_.jpg" alt="" />
                 </div>
                 </div>
 
@@ -240,6 +243,7 @@ const Home = () => {
                         <img src="https://m.media-amazon.com/images/I/612L4HRFqOL._AC_SY200_.jpg" alt="" />
                         <img src="https://m.media-amazon.com/images/I/716lknY4QJL._AC_SY200_.jpg" alt="" />
                         <img src="https://m.media-amazon.com/images/I/515a9r4Jk0L._AC_SY200_.jpg" alt="" />
+                        <img src="https://m.media-amazon.com/images/I/61unMVUYWcL._AC_UL320_.jpg" alt="" />
                         
                     </div>
                 </div>
@@ -314,6 +318,7 @@ const Home = () => {
                         <img src="https://m.media-amazon.com/images/I/41cHA6HybpL._AC_SY200_.jpg" alt="" />
                         <img src="https://m.media-amazon.com/images/I/71vkrQd0-VL._AC_SY200_.jpg" alt="" />
                         <img src="https://m.media-amazon.com/images/I/512An7zjnML._AC_SY200_.jpg" alt="" />
+                        <img src="https://m.media-amazon.com/images/I/41KF4CN5f4L._MCnd_AC_.jpg" alt="" />
                         
 
                     </div>
@@ -382,6 +387,7 @@ const Home = () => {
                         <img src="https://m.media-amazon.com/images/I/61jBEjn5+dL._AC_SY200_.jpg" alt="" />
                         <img src="https://m.media-amazon.com/images/I/71Gg67zqCNL._AC_SY200_.jpg" alt="" />
                         <img src="https://m.media-amazon.com/images/I/61mOQ0bINUL._AC_SY200_.jpg" alt="" />
+                        <img src="https://m.media-amazon.com/images/I/61JctlgNtGL._AC_SY200_.jpg" alt="" />
                     </div>
                 </div>
 
