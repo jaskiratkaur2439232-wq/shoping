@@ -306,3 +306,126 @@
 
 
 
+/* ================= MOBILE RESPONSIVE ================= */
+
+@media (max-width: 768px){
+
+  .picture{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .background1,
+  .background2,
+  .background3,
+  .background4,
+  .container1{
+    position: static;
+    width: 90%;
+    height: auto;
+    margin: 0;
+  }
+
+  .boximages,
+  .boximages-2,
+  .boximages-3,
+  .boximages-4,
+  .basic,
+  .pic1{
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .display,
+  .display-2{
+    margin-top: 30px;
+  }
+
+  .sequence,
+  .sequence-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
+
+  .sequence img,
+  .sequence-2 img{
+    width: 120px;
+  }
+
+  .important{
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    margin: 20px 0;
+  }
+
+  .mainpart,
+  .hello{
+    width: 90%;
+    height: auto;
+  }
+
+  .hello img{
+    width: 100%;
+  }
+
+  .length{
+    flex-direction: column;
+  }
+
+  .solid{
+    flex-direction: column;
+    margin: 20px;
+    gap: 20px;
+    align-items: center;
+  }
+
+  .solid img{
+    width: 200px;
+    height: auto;
+  }
+
+  .liquid p{
+    font-size: 20px;
+  }
+
+  .liquid a{
+    font-size: 18px;
+  }
+
+  .micro,
+  .customer,
+  .view{
+    padding: 10px;
+  }
+
+  .view{
+    flex-wrap: wrap;
+  }
+
+  .history{
+    height: auto;
+  }
+
+  h2{
+    font-size: 22px !important;
+  }
+
+  h3{
+    font-size: 20px !important;
+  }
+
+  p{
+    font-size: 14px;
+  }
+
+  img{
+    max-width: 100%;
+    height: auto;
+  }
+
+}
