@@ -107,9 +107,6 @@ const Home = () => {
             <img src="https://m.media-amazon.com/images/I/71aHbP5M2HL._AC_SY200_.jpg" alt="" />
             <img src="https://m.media-amazon.com/images/I/51WmCssta3L._AC_SY200_.jpg" alt="" />
             <img src="https://m.media-amazon.com/images/I/41ggFXk-slL._AC_SY200_.jpg" alt="" />
-            <img src="" alt="" />
-            <img src="" alt="" />
-             <img src="" alt="" />
             </div>
         </div>
 
@@ -123,7 +120,7 @@ const Home = () => {
                     <img src="https://m.media-amazon.com/images/I/81RSTW298AL._AC_SY200_.jpg" alt="" />
                 <img src="https://m.media-amazon.com/images/I/513dNHv7MnL._AC_SY200_.jpg" alt="" />
                 <img src="https://m.media-amazon.com/images/I/710H5I6siUL._AC_SY200_.jpg" alt="" />
-                <img src="" alt="" />
+                
             </div>
         </div>
             
@@ -243,8 +240,7 @@ const Home = () => {
                         <img src="https://m.media-amazon.com/images/I/612L4HRFqOL._AC_SY200_.jpg" alt="" />
                         <img src="https://m.media-amazon.com/images/I/716lknY4QJL._AC_SY200_.jpg" alt="" />
                         <img src="https://m.media-amazon.com/images/I/515a9r4Jk0L._AC_SY200_.jpg" alt="" />
-                        <img src="" alt="" />
-                        <img src="" alt="" />
+                        
                     </div>
                 </div>
 
@@ -318,7 +314,7 @@ const Home = () => {
                         <img src="https://m.media-amazon.com/images/I/41cHA6HybpL._AC_SY200_.jpg" alt="" />
                         <img src="https://m.media-amazon.com/images/I/71vkrQd0-VL._AC_SY200_.jpg" alt="" />
                         <img src="https://m.media-amazon.com/images/I/512An7zjnML._AC_SY200_.jpg" alt="" />
-                        <img src="" alt="" />
+                        
 
                     </div>
                 </div>

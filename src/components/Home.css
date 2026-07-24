@@ -161,7 +161,7 @@
   }
   .sequence{
     display: flex;
-    gap: 50px;
+    gap: 20px;
     margin: 0px 20px;
   }
   .display-2{
@@ -174,7 +174,7 @@
   }
   .sequence-2{
     display: flex;
-    gap: 50px;
+    gap: 20px;
   }
   .important {
     display: flex;
