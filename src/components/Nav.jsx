@@ -1,5 +1,6 @@
 import React from 'react'
 import "./Nav.css"
+import SearchIcon from '@mui/icons-material/Search';
 
 const Nav = () => {
   return (
@@ -36,7 +37,7 @@ const Nav = () => {
                 </form>
                 </div>
                 <div class="icon">
-                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <SearchIcon/>
                 </div>
         </div>
         <div class="language">

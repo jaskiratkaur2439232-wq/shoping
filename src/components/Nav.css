@@ -4,6 +4,7 @@
     height: 70px;
     margin-top: 20px;
     width: 100%;
+    padding-top: 20px;
     
 }
 .logo img:hover{
@@ -52,7 +53,6 @@
     font-size: 16px;
     border:  1px solid #cccc;
     border-radius: 5px;
-    padding: 5px;
 }
  .language select{
   width: 60px;
@@ -71,9 +71,8 @@ select option{
   }
   input{
     height:35px;
-    width:500px;
+    width:600px;
     border-radius: 0 0 5px 5px;
-    margin-top: 10px;
   }  
   .icon{
     background-color: darkgoldenrod;
@@ -84,7 +83,6 @@ select option{
   }
   .language{
     display:flex;
-    padding: 20px;
     justify-content: center;
   }
   .language select:hover{
