@@ -1,0 +1,306 @@
+   .center{
+    background-color: whitesmoke;
+   }
+  .picture img{
+    width: 100%;
+  }
+  .picture{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .background1{
+    position: absolute;
+    background-color: white;
+    margin-top: 250px;
+    margin-left: 5px;
+    margin-right: 1120px;
+    padding: 10px;
+    height: 420px;
+    width: 306px;
+  }
+  .background1 h2{
+    font-size: 28px;
+    margin-bottom: 15px;
+  }
+  .boximages{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+  }
+  .box1 img{
+    height:120px ;
+    width:100%;
+    object-fit: cover;
+  }
+  .box1 p{
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  .background2{
+    position: absolute;
+    background-color: white;
+    margin-top: 250px;
+    margin-left: 260px;
+    margin-right: 650px;
+    padding: 10px;
+    height: 420px;
+    width: 306px;
+  }
+  .background2 h2{
+    font-size: 28px;
+    margin-bottom: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+  }
+  .boximages-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-top: 10px;
+    padding-top: 10px;
+  }
+  .box2 img{
+    height:100px ;
+    width:100%;
+    object-fit: cover;
+  }
+  .box2 p{
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  .background3{
+    position: absolute;
+    background-color: white;
+    margin-top: 250px;
+    margin-left: 700px;
+    margin-right: 300px;
+    padding: 10px;
+    height: 420px;
+    width: 306px;
+  }
+  .background3 h2{
+    font-size: 28px;
+    margin-bottom: 15px;
+  }
+  .boximages-3{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-top: 10px;
+    padding-top: 10px;
+  }
+  .box3 img{
+    height:120px ;
+    width:100%;
+    object-fit: cover;
+  }
+  .box3 p{
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  .background4{
+    position: absolute;
+    background-color: white;
+    margin-top: 250px;
+    margin-left: 1120px;
+    margin-right:5px;
+    padding: 10px;
+    height: 420px;
+    width: 306px;
+  }
+  .background4 h2{
+    font-size: 28px;
+    margin-bottom: 15px;
+  }
+  .boximages-4{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-top: 10px;
+    padding-top: 10px;
+  }
+  .box4 img{
+    height:150px ;
+    width:100%;
+    object-fit: cover;
+  }
+  .container1{
+    position: absolute;
+    background-color: white;
+    margin-top: 720px;
+    margin-left: 20;
+    margin-right:1120px;
+    padding: 10px;
+    height: 400px;
+    width: 306px;
+  }
+  .conatiner1 h2{
+    font-size: 20px;
+    margin-bottom:15px ;
+  }
+  .pic1{
+   display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-top: 10px;
+    padding-top: 10px;
+  }
+  .daba1 img{
+    height:100px ;
+    width:100%;
+    object-fit: cover;
+  }
+  .display{
+    margin-top: 100px;
+    background-color: white;
+    padding: 20px;
+  }
+  .display h3{
+    font-size: 25px;
+  }
+  .sequence{
+    display: flex;
+    gap: 20px;
+  }
+  .display-2{
+    margin-top: 50px;
+    background-color: white;
+    padding: 20px;
+  }
+  .display-2 h3{
+    font-size: 25px;
+  }
+  .sequence-2{
+    display: flex;
+    gap: 40px;
+  }
+  .important {
+    display: flex;
+    gap: 50px;
+    margin: 50px 10px;
+  }
+  .mainpart{
+    background-color: white;
+    padding: 10px;
+    height: 420px;
+    width: 306px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .basic{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-top: 10px;
+    padding-top: 10px;
+  }
+  .basic img{
+    height:150px ;
+    width:100%;
+    object-fit: cover;
+  }
+  .volume p{
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  .length{
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+  }
+  .length img{
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 100%;
+  }
+  .solid{
+    display: flex;
+    gap: 50px;
+    margin: 40px 400px;
+    background-color: #4242;
+  }
+  .solid img{
+    height: 350px;
+    width: 250px;
+    padding: 20px;
+  }
+  .liquid p{
+    font-size: 28px;
+    color: #666666;
+  }
+  .liquid a{
+    font-size: 25px;
+    color: #666666;
+  }
+  .liquid StarIcon{
+    color: orange;
+  }
+  .liquid button{
+    background-color: darkgoldenrod;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+  }
+  .hello{
+    background-color: white;
+    padding: 10px;
+    height: 420px;
+    width: 350px;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+  }
+  .hello img{
+    width: 335px;
+  }
+  .volume{
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+  }
+  .volume img{
+   height: 100%;
+   width: 100%;
+    object-fit: contain;
+  }
+  img{
+    object-fit: cover;
+  }
+  .micro {
+    padding: 20px 40px;
+  }
+  .customer{
+    padding: 20px;
+  }
+  .view{
+    display: flex;
+    padding: 20px;
+    gap: 15px;
+  }
+  
+  .history{
+    padding: 10px;
+    background-color: white;
+  
+    height: 500px;
+  }
+  .history p{
+    color: #387ed1;
+    padding-bottom: 5px;
+  }
+  .history a{
+    font-size: small;
+  }
+  
+  
+  
+  
+
+
+
+

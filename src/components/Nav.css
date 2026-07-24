@@ -1,0 +1,269 @@
+.nav{
+    display: flex;
+    background-color: #0F1111;
+    height: 70px;
+    margin-top: 20px;
+    width: 100%;
+    
+}
+.logo img:hover{
+    border: 2px solid #cccc;
+}
+
+.logo img{
+    height: 50px;
+    width: 150px;
+    border: 5px solid  transparent;
+    cursor: pointer;
+}
+.deliver{
+  margin-top: 10px;
+}
+.deliver p{
+    display:flex;
+}
+.deliver:hover{
+  border: 2px solid #cccc;
+}
+.firstletter{
+    color: #cccc;
+    padding: 0%;
+    margin: 0%;
+    margin-left: 30px;
+    margin-right: 30px;
+    justify-content: center;
+}
+.secondletter{
+    color: #ffff;
+    padding: 0%;
+    margin: 0%;
+    margin-left: 30px;
+    margin-right: 30px;
+    justify-content: center;
+}
+
+.fa-chevron-down{
+    cursor: pointer;
+    color: white;
+}
+ .all select{
+    width: 60px;
+    height: 40px;
+    font-size: 16px;
+    border:  1px solid #cccc;
+    border-radius: 5px;
+    padding: 5px;
+}
+ .language select{
+  width: 60px;
+    height: 40px;
+    font-size: 16px;
+    border:  1px solid #cccc;
+    border-radius: 5px;
+    padding: 5px;
+ }
+select option{
+    background-color: beige;
+    color: black;
+}
+  .bar{
+    display: flex;
+  }
+  input{
+    height:35px;
+    width:500px;
+    border-radius: 0 0 5px 5px;
+    margin-top: 10px;
+  }  
+  .icon{
+    background-color: darkgoldenrod;
+    color: black;
+    height: 40px;
+    width: 50px;
+    justify-content: center;
+  }
+  .language{
+    display:flex;
+    padding: 20px;
+    justify-content: center;
+  }
+  .language select:hover{
+     border: 2px solid #cccc;
+  }
+  .language select{
+    width: max-content;
+    background-color: #0F1111;
+    color: #ffff;
+  }
+  .sign{
+    display: flex;
+  }
+  h5:hover{
+     border: 2px solid #cccc;
+  }
+  h5{
+    color: #ffff;
+    padding: 0%;
+    margin: 0%;
+    justify-content: center;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  .one {
+    color: #cccc;
+    padding: 0%;
+    margin: 0%;
+    justify-content: center;
+    margin-left:30px ;
+    margin-right:30px ;
+  }
+  .two {
+    color: #ffff;
+    padding: 0%;
+    margin: 0%;
+    justify-content: center;
+    margin-right: 30px;
+    margin-left: 30px;
+  }
+  .list:hover{
+     border: 2px solid #cccc;
+     height: min-content;
+  }
+  .list{
+    display: block;
+    cursor: pointer;
+  }
+  .last p{
+    color: #ffff;
+  }
+  .last:hover{
+     border: 2px solid #cccc;
+     height: min-content;
+  }
+   .cart i{
+    color: #ffff;
+    padding:20px;
+  }
+  .last{
+    display: flex;
+  }
+  .content{
+    display: flex;
+    background-color: seashell;
+    color: #FFFF;
+    background-color: darkslategray;
+  }
+  .almost{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 30px;
+  }
+  .almost h4:hover{
+    border: 2px solid #cccc;
+     height: min-content;
+  }
+  .almost i{
+    margin-top: 20px;
+  }
+  .fresh{
+    margin-left: 20px;
+    margin-right: 30px;
+    border: none;
+  }
+  .fresh h4:hover{
+    border: 2px solid #cccc;
+     height: min-content;
+  }
+  .player{
+     margin-left: 20px;
+    margin-right: 30px;
+     border: none;
+  }
+  
+  .player h4:hover{
+    border: 2px solid #cccc;
+     height: min-content;
+  }
+  .sell{
+     margin-left: 20px;
+    margin-right: 30px;
+     border: none;
+  }
+  .sell h4:hover{
+border: 2px solid #cccc;
+     height: min-content;
+  }
+  .bestseller{
+     margin-left: 20px;
+    margin-right: 30px;
+     border: none;
+  }
+  .bestseller h4:hover{
+    border: 2px solid #cccc;
+     height: min-content;
+  }
+  .deals{
+     margin-left: 20px;
+    margin-right: 30px;
+     border: none;
+  }
+
+  .deals h4:hover{
+    border: 2px solid #cccc;
+     height: min-content;
+  }
+  .prime{
+     margin-left: 20px;
+    margin-right: 30px;
+     border: none;
+  }
+  .prime h4:hover{
+    border: 2px solid #cccc;
+     height: min-content;
+  }
+  .mobile{
+     margin-left: 20px;
+    margin-right: 30px;
+     border: none;
+  }
+  .mobile h4:hover{
+    border: 2px solid #cccc;
+     height: min-content;
+  }
+  .release{
+     margin-left: 20px;
+    margin-right: 30px;
+     border: none;
+  }
+  .release h4:hover{
+    border: 2px solid #cccc;
+     height: min-content;
+  }
+  .service{
+     margin-left: 20px;
+    margin-right: 30px;
+     border: none;
+  }
+  .service h4:hover{
+    border: 2px solid #cccc;
+     height: min-content;
+  }
+  .pay{
+     margin-left: 20px;
+    margin-right: 30px;
+     border: none;
+  }
+  
+  .pay h4:hover{
+    border: 2px solid #cccc;
+     height: min-content;
+  }
+  .electronic{
+     margin-left: 20px;
+    margin-right: 30px;
+     border: none;
+  }
+  .electronic h4:hover{
+    border: 2px solid #cccc;
+     height: min-content;
+  }
